@@ -11,6 +11,4 @@ public class HelloController {
 		return "list";
 	}
 	
-	
-	
 }
